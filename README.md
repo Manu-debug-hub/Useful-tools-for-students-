@@ -1,6 +1,6 @@
 # Useful Tools for Students
 
-A collaborative guide by [list all team member names].
+A collaborative guide by [Ken,Mkmoise,Manu].
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,11 +12,11 @@ A collaborative guide by [list all team member names].
 This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
-## VS Code
-<!-- [Ken] will write this section -->
+## VS code 
+Ken will write this section.
 
 ## Notion
-<!-- [Mkmoise] will write this section -->
+Mkmoise will write this section.
 
 ## Canva
-<!-- [Manu] will write this section -->
+Manu will write this section.
