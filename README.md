@@ -12,7 +12,8 @@ A collaborative guide by [Ken,Mkmoise,Manu].
 This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
-## VS code 
+## VS code
+By Ken
 
 **Visual Studio Code** (VS Code) is a free code editor made by Microsoft.
 It is one of the most popular editors for programming.
