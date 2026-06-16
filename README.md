@@ -18,7 +18,7 @@ Ken will write this section.
 
 ## Notion ##
 
-By Mkmoise
+By **Mkmoise**
 
 **Notion** is an all-in-one productivity and note-taking tool that helps students organize their academic and personal lives.
 
