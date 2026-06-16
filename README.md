@@ -92,5 +92,13 @@ It is one of the most popular design platforms for creating visual content.
 - [Canva Design School](https://www.canva.com/design-school/)
 - [Canva Learn & Tutorials](https://www.canva.com/learn/)
 - [Canva Blog](https://www.canva.com/blog/)
-```
 
+### How to Maneuver Illustrations in Canva
+
+- **Drag & Drop**: Add illustrations from the Elements tab to your canvas
+- **Resize**: Grab corners to adjust size while maintaining proportions
+- **Rotate**: Use the rotation handle to angle elements
+- **Color**: Click to change illustration colors from the palette
+- **Layer**: Right-click to arrange elements in front or back
+- **Group**: Select multiple items and group them together
+- **Combine**: Stack illustrations to create custom designs
