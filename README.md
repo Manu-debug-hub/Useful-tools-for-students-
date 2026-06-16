@@ -18,7 +18,7 @@ Ken will write this section.
 
 ## Notion ##
 
-By Mkmoise
+By **Mkmoise**
 
 **Notion** is an all-in-one productivity and note-taking tool that helps students organize their academic and personal lives.
 
@@ -41,9 +41,12 @@ By Mkmoise
 3. Create pages for your subjects.
 4. Start organizing your notes and tasks.
 
-### Useful Links
-- https://www.notion.so/
-- https://www.notion.so/help
+## Learning Resources
+
+- Official Notion Website: https://www.notion.so
+- Notion Help Center: https://www.notion.so/help
+- Notion Beginner Guide: https://www.notion.so/help/guides
+- Notion YouTube Channel: https://www.youtube.com/@Notion
 
 ## Canva
 
