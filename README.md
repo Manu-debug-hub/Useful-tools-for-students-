@@ -41,9 +41,12 @@ By Mkmoise
 3. Create pages for your subjects.
 4. Start organizing your notes and tasks.
 
-### Useful Links
-- https://www.notion.so/
-- https://www.notion.so/help
+### Useful Links/ ## Learning Resources
+
+- Official Notion Website: https://www.notion.so
+- Notion Help Center: https://www.notion.so/help
+- Notion Beginner Guide: https://www.notion.so/help/guides
+- Notion YouTube Channel: https://www.youtube.com/@Notion
 
 ## Canva
 
