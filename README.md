@@ -14,7 +14,7 @@ Each section is written by a different team member.
 
 ## VS code
 
-By **Ken**
+By **Kennedymurimi100**
 
 **Visual Studio Code** (VS Code) is a free code editor made by Microsoft.
 It is one of the most popular editors for programming.
